@@ -26,7 +26,9 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-Upar um arquivo -> POST localhost:3000/file-upload BODY upload (Multipart Form)
+## Requests
+
+Upar um arquivo -> POST localhost:3000/file-upload BODY upload (Multipart Form)<br>
 Buscar a url assinada => GET localhost:3000/file-upload BODY nome (Form URL Encoded)
 
 ## Installation
